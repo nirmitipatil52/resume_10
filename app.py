@@ -651,5 +651,5 @@ if uploaded_file is not None:
 
 st.markdown("---")
 st.caption("🚀 AI Resume Analyzer & Career Intelligence Platform")
-st.markdown("</div>", unsafe_allow_html=True)
+
 
